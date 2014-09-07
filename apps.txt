@@ -1,0 +1,4 @@
+C:\Users\samuel\AppData\Roaming\Spotify\spotify.exe
+C:\Program Files\OBS\OBS.exe
+D:\Program Files (x86)\Streamtip Alerter\streamtip-alerter.exe
+C:\Program Files\OBS\plugins\SMG 1.63 beta\SMG.exe
