@@ -6,7 +6,7 @@ starts multiple applications
 Usage
 -------
 
-For each application add the absolute path you into the `apps.txt` file.
+For each application add the absolute path into the `apps.txt` file.
 
 **Example:** 
 
