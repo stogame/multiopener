@@ -27,5 +27,3 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------
 
 call src/script.bat
-
-cmd /k
