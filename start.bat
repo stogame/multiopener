@@ -1,5 +1,7 @@
 @echo off
 
+:: Thanks to Evan Greene for the BatchGotAdmin code
+:: https://sites.google.com/site/eneerge/home/BatchGotAdmin
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
